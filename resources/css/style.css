@@ -1,0 +1,42 @@
+html {
+   background-color: black;
+   margin: 1%;
+   align-items: center;
+}
+
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   text-align: center;
+}
+
+h1 {
+   color: white;
+   font-size: 3.125rem;
+
+}
+
+a {
+   color: aquamarine;
+   
+}
+
+h2 {
+   font-size: 2.625rem;
+   color: white;
+   font-weight: 300;
+}
+
+.phone {
+   padding-top: 1%;
+}
+
+p {
+   font-size: 1.3125;
+   color: gray;
+}
+
+.footer {
+   text-align: right;
+}
